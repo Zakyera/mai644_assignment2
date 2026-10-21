@@ -1,0 +1,21 @@
+# Large data files
+*.avi
+*.mp4
+*.mov
+*.zip
+*.tar.gz
+
+# Dataset folders
+data/
+datasets/
+cifar-10*/
+
+# Model checkpoints (can be large)
+*.pth
+*.pt
+*.h5
+
+# System files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
